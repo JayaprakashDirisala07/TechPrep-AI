@@ -7,7 +7,7 @@ export default defineConfig(({ mode }) => ({
   server: {
     host: "::",
     port: 8080,
-    allowedHosts: ['techprep-ai-.onrender.com'], // ✅ Add this line
+    allowedHosts: ['techprep-ai-5gf5.onrender.com'], // ✅ Add this line
   },
   plugins: [
     react()
